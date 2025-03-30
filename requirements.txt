@@ -1,0 +1,5 @@
+backtesting
+pandas
+numpy
+python-dotenv
+bybit
